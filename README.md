@@ -8,7 +8,7 @@ You can find me on :
 &nbsp;<a href = "https://www.facebook.com/profile.php?id=100025724718686" ><img src = "https://github.com/SAXENA-SANTOSH/SAXENA-SANTOSH/blob/main/Images/Facebook%20.png" height="20"><img></a>
 
 Anyone can contact via all the above method as well as
-&nbsp;<img src = "https://github.com/SAXENA-SANTOSH/SAXENA-SANTOSH/blob/main/Images/gmail.png" width = 12><img> -> santosh.saxena.official@gmail.com
+&nbsp;<img src = "https://github.com/SAXENA-SANTOSH/SAXENA-SANTOSH/blob/main/Images/gmail.png" width = 20><img> : santosh.saxena.official@gmail.com
 
 ## Job Responsiblities
 
