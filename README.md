@@ -9,7 +9,7 @@ You can find me on :
 
 ## Job Responsiblities
 
-|Os|Mac, Windows|
+| Os | Mac, Windows |
 
   
   ## &#x1f4c8; GitHub Stats
