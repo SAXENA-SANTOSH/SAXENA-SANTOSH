@@ -6,10 +6,12 @@ You can find me on :
 &nbsp;<a href = "https://scholar.google.com/citations?user=WifMgUgAAAAJ&hl=en" ><img src = "https://github.com/SAXENA-SANTOSH/SAXENA-SANTOSH/blob/main/Images/google_scholar.png" height="20"><img></a>
 &nbsp;<a href = "https://www.instagram.com/santosh_saxena_60/" ><img src = "https://github.com/SAXENA-SANTOSH/SAXENA-SANTOSH/blob/main/Images/Instagram.jpeg" height="20"><img></a>
 &nbsp;<a href = "https://www.facebook.com/profile.php?id=100025724718686" ><img src = "https://github.com/SAXENA-SANTOSH/SAXENA-SANTOSH/blob/main/Images/Facebook%20.png" height="20"><img></a>
+  
+&nbsp;<img src = "https://github.com/SAXENA-SANTOSH/SAXENA-SANTOSH/blob/main/Images/gmail.png"><img> : ***santosh.saxena.official@gmail.com***
 
 ## Job Responsiblities
 
-| Os | Mac, Windows |
+|  | Mac, Windows |
 |:--:|:------------:|
 | Sajdaf | dfadfa |
 
