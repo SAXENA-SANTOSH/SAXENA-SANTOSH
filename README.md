@@ -1,3 +1,3 @@
 # Greetings Respected viewers <img src="https://github.com/AsadAzam/AsadAzam/blob/master/wave.gif" width="30px">
 
-This is ***Santosh Saxena*** and I am a ***Data Science*** enthusiast. I has insights of ***Machine Learning, Deep Learning, Computer Vision and Natural Language Processing*** and I am extending myself towards ***Data Engineering, Cloud and DevOps*** to achieve a level of ***Full-Stack Data Scientist***. I live in Pune,India. You can find me on 
+This is <u> ***Santosh Saxena*** </u> and I am a <u> ***Data Science*** </u> enthusiast. I has insights of <u> ***Machine Learning, Deep Learning, Computer Vision and Natural Language Processing*** </u> and I am extending myself towards <u> ***Data Engineering, Cloud and DevOps*** </u> to achieve a level of <u> ***Full-Stack Data Scientist*** </u> . I live in Pune,India. You can find me on 
