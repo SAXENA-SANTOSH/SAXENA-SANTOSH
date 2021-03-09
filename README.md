@@ -1,4 +1,6 @@
-# Santosh Saxena
-   
-   Greetings to everyone :wave: . This is Santosh Saxena, A Data Science enthusiast. Willing to contribute to Data Science community, Extending myself towards Data Engineering and Cloud. 
+<!-- Add icon library -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 
+<!-- Add font awesome icons -->
+<a href="#" class="fa fa-facebook"></a>
+<a href="#" class="fa fa-twitter"></a>
