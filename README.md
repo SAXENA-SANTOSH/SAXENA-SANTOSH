@@ -15,9 +15,4 @@ You can find me on :
 <a href="https://github.com/AsadAzam/AsadAzam">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=SAXENA-SANTOSH&show_icons=true&line_height=33&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Asad's GitHub Stats" width="63%" />
 </a>
-<a href="https://github.com/AsadAzam/morsecode">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SAXENA-SANTOSH&repo=morsecode&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" width="48%" />
-</a>
-<a href="https://github.com/AsadAzam/FileRecovery">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SAXENA-SANTOSH&repo=FileRecovery&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" width="48%" />
-</a>
+
