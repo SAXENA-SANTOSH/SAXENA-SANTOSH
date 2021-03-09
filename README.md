@@ -1,4 +1,4 @@
-<img src = "https://github.com/SAXENA-SANTOSH/SAXENA-SANTOSH/blob/main/Images/Data%20Science.jpeg" height = 400 width = 100%><img>
+<img src = "https://github.com/SAXENA-SANTOSH/SAXENA-SANTOSH/blob/main/Images/Data%20Science.jpeg" height = 250 width = 100%><img>
 
 
 # Greetings Respected viewers <img src="https://github.com/AsadAzam/AsadAzam/blob/master/wave.gif" width="30px">
