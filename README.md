@@ -1,7 +1,7 @@
 # Greetings Respected viewers <img src="https://github.com/AsadAzam/AsadAzam/blob/master/wave.gif" width="30px">
 
-This is ***Santosh Saxena*** and I am a <u> ***Data Science***  enthusiast. I has insights of ***Machine Learning, Deep Learning, Computer Vision and Natural Language Processing*** and I am extending myself towards ***Data Engineering, Cloud and DevOps*** to achieve a level of ***Full-Stack Data Scientist*** . I live in Pune,India. 
-You can find me on :
+This is ***Santosh Saxena*** and I am a <u> ***Data Science***  enthusiast. I has insights of ***Machine Learning, Deep Learning, Computer Vision and Natural Language Processing*** and I am extending myself towards ***Data Engineering, Cloud and DevOps*** to achieve a level of ***Full-Stack Data Science*** . I live in Pune,India. 
+Anyone can find me on :
 &nbsp;<a href = "linkedin.com/in/santosh-saxena" ><img src = "https://github.com/SAXENA-SANTOSH/SAXENA-SANTOSH/blob/main/Images/Linkedin.png" height="20"><img></a>
 &nbsp;<a href = "https://scholar.google.com/citations?user=WifMgUgAAAAJ&hl=en" ><img src = "https://github.com/SAXENA-SANTOSH/SAXENA-SANTOSH/blob/main/Images/google_scholar.png" height="20"><img></a>
 &nbsp;<a href = "https://www.instagram.com/santosh_saxena_60/" ><img src = "https://github.com/SAXENA-SANTOSH/SAXENA-SANTOSH/blob/main/Images/Instagram.jpeg" height="20"><img></a>
@@ -19,9 +19,21 @@ Anyone can also contact me via
 | Machine Learning | EDA, ML-Algorithms, Execution with python |
 | Deep Learning | Neural Networks , Computer Vision, Transfer learning, Execution with Python |
 | Natural Language Processing | Neural Network , Transfer learning, Execution with Python |
-| Operating System | MacOs, Linux, Windows, Ubuntu |
+| Operating System | MacOs, Windows |
 | Hardware | Tesla T4 from google colab |
 | Version control | GIT |
+
+## Skill Elaboration
+
+| Skill | Technologies used to work or Known | 
+|:--:|:------------:|
+| Python | Numpy, Pandas, Matplotlib, Seaborn, Plotly, Scikit-Learn, pickle, Keras, Open-cv, Tensorflow, Pytorch |
+| Machine Learning | Linear Regression, Logistic Regression, Decision Tree, Support vector machine, Naive Bayes, Ensemble technique, Hyper parameter tunning  |
+| Deep Learning | Artificial Neural Network, Convolutional Neural Network, Recurrent Neural Network, LeNET, AlexNet, VGG, Resnet, InceptionNet |
+| Computer Vision | RCNN family , Yolo family , SSD, Object segmentation(Mask-RCNN) , Object Tracking  |
+| Natural Language Processing | Encoder-Decoder, Self Attention, Transformer, Transfer Lerning models |
+
+
 
 
   
