@@ -10,6 +10,8 @@ You can find me on :
 ## Job Responsiblities
 
 | Os | Mac, Windows |
+--------------------
+| Sajdaf | dfadfa |
 
   
   ## &#x1f4c8; GitHub Stats
