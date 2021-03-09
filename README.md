@@ -15,6 +15,7 @@ Anyone can also contact me via
 | Skill | Technologies worked on | 
 |:--:|:------------:|
 | Programming | Python |
+| DataBase | SQL, Sqlite |
 | Tools/ IDE | PyCharm, VSCode, Jupyter Notebook |
 | Machine Learning | EDA, ML-Algorithms, Execution with python |
 | Deep Learning | Neural Networks , Computer Vision, Transfer learning, Execution with Python |
