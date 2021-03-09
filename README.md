@@ -13,7 +13,7 @@ Anyone can also contact me via
 ## Job Responsiblities
 
 | Skill | Technologies worked on | 
-|:--:|:------------:|
+|:--|:------------|
 | Programming | Python |
 | DataBase | SQL, Sqlite |
 | Tools/ IDE | PyCharm, VSCode, Jupyter Notebook |
@@ -27,14 +27,14 @@ Anyone can also contact me via
 ## Skill Elaboration
 
 | Skill | Technologies used to work or Known | 
-|:--:|:------------:|
+|:--|:------------|
 | Python | Numpy, Pandas, Matplotlib, Seaborn, Plotly, Scikit-Learn, pickle, Keras, Open-cv, Tensorflow, Pytorch |
 | Machine Learning | Linear Regression, Logistic Regression, Decision Tree, Support vector machine, Naive Bayes, Ensemble technique, Hyper parameter tunning  |
 | Deep Learning | Artificial Neural Network, Convolutional Neural Network, Recurrent Neural Network, LeNET, AlexNet, VGG, Resnet, InceptionNet |
 | Computer Vision | RCNN family , Yolo family , SSD, Object segmentation(Mask-RCNN) , Object Tracking  |
 | Natural Language Processing | Encoder-Decoder, Self Attention, Transformer, Transfer Lerning models |
 
-For More Details refer my resume <a href = "https://github.com/SAXENA-SANTOSH/Resume">click here for resume</a>")
+For More Details refer my resume <a href = "https://github.com/SAXENA-SANTOSH/Resume">click here for resume</a>
   
   ## &#x1f4c8; GitHub Stats
 <a href="https://github.com/AsadAzam/AsadAzam">
