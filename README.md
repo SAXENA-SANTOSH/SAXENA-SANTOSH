@@ -34,13 +34,7 @@ Anyone can also contact me via
 | Computer Vision | RCNN family , Yolo family , SSD, Object segmentation(Mask-RCNN) , Object Tracking  |
 | Natural Language Processing | Encoder-Decoder, Self Attention, Transformer, Transfer Lerning models |
 
-
-## Educational Details and Achievements
-
-- B-Tech/CS from Symbiosis Institute of Technology 
-- Working in Symbiosis Center of Applied Artificial Intelligence from 3rd yead B-Tech
-- Took Demonstration lecture for AI and ML to PHD students 
-
+For More Details refer my resume [click here for resume !]("https://github.com/SAXENA-SANTOSH/Resume")
   
   ## &#x1f4c8; GitHub Stats
 <a href="https://github.com/AsadAzam/AsadAzam">
