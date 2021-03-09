@@ -35,7 +35,11 @@ Anyone can also contact me via
 | Natural Language Processing | Encoder-Decoder, Self Attention, Transformer, Transfer Lerning models |
 
 
+## Educational Details and Achievements
 
+- B-Tech/CS from Symbiosis Institute of Technology 
+- Working in Symbiosis Center of Applied Artificial Intelligence from 3rd yead B-Tech
+- Took Demonstration lecture for AI and ML to PHD students 
 
   
   ## &#x1f4c8; GitHub Stats
