@@ -12,9 +12,13 @@ Anyone can contact via all the above method as well as
 
 ## Job Responsiblities
 
-|  | Mac, Windows |
+| Skill | Technology worked on |
 |:--:|:------------:|
-| Sajdaf | dfadfa |
+| Programming | Python, R, Scala, |
+| Tools/ IDE | PyCharm, VSCode, Jupyter Notebook |
+| Machine Learning | EDA, ML-Algorithms, Execution with Python |
+| Deep Learning | Neural Networks , Computer Vision, Transfer learning, Execution with Python |
+| Natural Language Processing | Neural Network , Attention , Transformer, Transfer learning, Execution with Python | 
 
   
   ## &#x1f4c8; GitHub Stats
