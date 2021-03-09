@@ -10,7 +10,7 @@ You can find me on :
 ## Job Responsiblities
 
 | Os | Mac, Windows |
---------------------
+|:--:|:------------:|
 | Sajdaf | dfadfa |
 
   
