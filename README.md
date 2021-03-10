@@ -13,7 +13,7 @@ Anyone can find me on :
 Anyone can also contact me via 
 &nbsp;<img src = "https://github.com/SAXENA-SANTOSH/SAXENA-SANTOSH/blob/main/Images/gmail.png" width = 20><img> : santosh.saxena.official@gmail.com
 
-## Job Responsiblities
+## :wrench: Job Responsiblities
 
 | Skill | Technologies worked on | 
 |:--|:------------|
@@ -27,7 +27,7 @@ Anyone can also contact me via
 | Hardware | Tesla T4 from google colab |
 | Version control | GIT |
 
-## Skill Elaboration
+## :notebook_with_decorative_cover: Skill Elaboration
 
 | Skill | Technologies used to work or Known | 
 |:--|:------------|
