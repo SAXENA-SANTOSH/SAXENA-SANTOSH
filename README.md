@@ -40,11 +40,11 @@ Anyone can also contact me via
 For More Details refer my resume <a href = "https://github.com/SAXENA-SANTOSH/Resume">click here for resume</a>
   
   ## &#x1f4c8; GitHub Stats
-<a href="https://github.com/AsadAzam/AsadAzam">
+<a href="https://github.com/SAXENA-SANTOSH/SAXENA-SANTOSH">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SAXENA-SANTOSH&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" width="40%"/>
 </a>
-<a href="https://github.com/AsadAzam/AsadAzam">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=SAXENA-SANTOSH&show_icons=true&line_height=33&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Asad's GitHub Stats" width="56%" />
+<a href="https://github.com/SAXENA-SANTOSH/SAXENA-SANTOSH">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=SAXENA-SANTOSH&show_icons=true&line_height=33&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Santosh's GitHub Stats" width="56%" />
 </a>
 
 
