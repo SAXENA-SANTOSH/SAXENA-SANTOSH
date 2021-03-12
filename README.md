@@ -36,7 +36,7 @@ Anyone can also contact me via
 | Machine Learning | Linear Regression, Logistic Regression, Decision Tree, Support vector machine, Naive Bayes, Ensemble technique, Hyper parameter tunning  |
 | Deep Learning | Artificial Neural Network, Convolutional Neural Network, Recurrent Neural Network, LeNET, AlexNet, VGG, Resnet, InceptionNet |
 | Computer Vision | RCNN family , Yolo family , SSD, Object segmentation(Mask-RCNN) , Object Tracking  |
-| Natural Language Processing | Encoder-Decoder, Self Attention, Transformer, Transfer Lerning models |
+| Natural Language Processing | Encoder-Decoder, Self Attention, Transformer, Transfer Learning models |
 
 For More Details refer my resume <a href = "https://github.com/SAXENA-SANTOSH/Resume">click here for resume</a>
   
