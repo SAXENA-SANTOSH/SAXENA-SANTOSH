@@ -18,7 +18,7 @@ Anyone can also contact me via
 
 | Skill | Technologies worked on | 
 |:--|:------------|
-| Programming | Python,Scala |
+| Programming | Python,Scala, C , C++ , Java |
 | DataBase | SQL, Sqlite |
 | Tools/ IDE | PyCharm, VSCode, Jupyter Notebook |
 | Machine Learning | EDA, ML-Algorithms, Execution with python |
